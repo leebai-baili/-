@@ -1,0 +1,43 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:46173 (IPv4)
+Extension host agent listening on 46173
+
+[06:55:51] 
+
+
+
+
+[06:55:51] Extension host agent started.
+[06:55:51] [127.0.0.1][6b170100][ManagementConnection] New connection established.
+[06:55:51] [127.0.0.1][94a723f6][ExtensionHostConnection] New connection established.
+[06:55:52] [127.0.0.1][94a723f6][ExtensionHostConnection] <308419> Launched Extension Host Process.
+[06:56:43] [127.0.0.1][6b170100][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:56:43] Error: Throttler is disposed
+    at c.queue (/home/gem/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:13632)
+    at /home/gem/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:15216
+    at /home/gem/.vscode-server/bin/fdb98833154679dbaa7af67a5a29fe19e55c2b73/out/vs/server/node/server.main.js:70:14852
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at process.processTimers (node:internal/timers:512:7)
+[06:56:48] [127.0.0.1][94a723f6][ExtensionHostConnection] <308419> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[06:56:48] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[06:56:48] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[06:56:49] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[06:56:49] Cancelling previous shutdown timeout
+[06:56:49] [127.0.0.1][643c58ad][ManagementConnection] New connection established.
+[06:56:50] [127.0.0.1][35709566][ExtensionHostConnection] New connection established.
+[06:56:50] [127.0.0.1][35709566][ExtensionHostConnection] <308580> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[07:01:49] New EH opened, aborting shutdown
+[07:37:27] Extensions removed from another source ms-ceintl.vscode-language-pack-zh-hans file:///home/gem/.vscode-server/extensions/extensions.json
+[07:37:27] Extensions added from another source ms-ceintl.vscode-language-pack-zh-hans file:///home/gem/.vscode-server/extensions/extensions.json

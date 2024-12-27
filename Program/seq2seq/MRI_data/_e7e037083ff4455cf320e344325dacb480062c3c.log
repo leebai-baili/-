@@ -1,0 +1,52 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:42487 (IPv4)
+Extension host agent listening on 42487
+
+[07:37:19] 
+
+
+
+
+[07:37:19] Extension host agent started.
+[07:37:19] [127.0.0.1][609d87ac][ManagementConnection] New connection established.
+[07:37:20] [127.0.0.1][d789aa16][ExtensionHostConnection] New connection established.
+[07:37:20] [127.0.0.1][d789aa16][ExtensionHostConnection] <310294> Launched Extension Host Process.
+[07:37:24] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hans
+[07:37:24] Getting Manifest... ms-ceintl.vscode-language-pack-zh-hans
+[07:37:26] Installing extension: ms-ceintl.vscode-language-pack-zh-hans
+[07:37:26] Extensions is already requested to install ms-ceintl.vscode-language-pack-zh-hans
+[07:37:27] Extension signature verification failed with error 'ENOENT': ms-ceintl.vscode-language-pack-zh-hans
+[07:37:27] Extracted extension to file:///home/gem/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109: ms-ceintl.vscode-language-pack-zh-hans
+[07:37:27] Renamed to /home/gem/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109
+[07:37:27] Extracting extension completed. ms-ceintl.vscode-language-pack-zh-hans
+[07:37:27] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+[07:37:27] Marked extension as uninstalled ms-ceintl.vscode-language-pack-zh-hans-1.82.2023091309
+[07:37:27] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hans
+[07:37:32] Downloaded extension to file:///home/gem/.vscode-server/data/CachedExtensionVSIXs/8714b13a-1f4a-4b6b-bb0f-98727cbe28c1
+[07:37:32] Installing extension: ms-ceintl.vscode-language-pack-zh-hans
+[07:37:32] Installing the extension without checking dependencies and pack ms-ceintl.vscode-language-pack-zh-hans
+[07:37:32] Deleted existing extension from disk ms-ceintl.vscode-language-pack-zh-hans /home/gem/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109
+[07:37:32] Extracted extension to file:///home/gem/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109: ms-ceintl.vscode-language-pack-zh-hans
+[07:37:32] Renamed to /home/gem/.vscode-server/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.83.2023101109
+[07:37:32] Extracting extension completed. ms-ceintl.vscode-language-pack-zh-hans
+[07:37:32] Adding language packs from the extension ms-ceintl.vscode-language-pack-zh-hans
+[07:37:32] Extension installed successfully: ms-ceintl.vscode-language-pack-zh-hans
+[07:38:37] [127.0.0.1][609d87ac][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[07:38:37] [127.0.0.1][d789aa16][ExtensionHostConnection] <310294> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[07:38:37] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[07:38:37] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[07:38:43] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[07:38:43] Cancelling previous shutdown timeout
+[07:38:44] [127.0.0.1][245c3823][ManagementConnection] New connection established.
+[07:38:44] [127.0.0.1][15524aaf][ExtensionHostConnection] New connection established.
+[07:38:44] [127.0.0.1][15524aaf][ExtensionHostConnection] <310516> Launched Extension Host Process.
